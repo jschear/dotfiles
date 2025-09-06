@@ -14,6 +14,7 @@ brew "buildozer"
 brew "withered-magic/brew/starpls"
 
 cask "ghostty"
+cask "claude-code"
 
 # Moved to mise
 # brew "jq"

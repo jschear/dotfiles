@@ -15,6 +15,8 @@ bindkey "^[[A" history-beginning-search-backward-end
 bindkey "^[[B" history-beginning-search-forward-end
 
 ## Aliases
+alias dots='code ~/.config/dotfiles/'
+
 # Colorize
 alias ls='ls -GF'
 
