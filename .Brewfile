@@ -1,24 +1,23 @@
-tap "withered-magic/brew"
-
 brew "mise"
 
 brew "git"
 brew "gnupg"
 brew "pinentry-mac"
+brew "gh"
 
 brew "tree"
 
 brew "bazelisk"
 brew "buildifier"
 brew "buildozer"
+tap "withered-magic/brew"
 brew "withered-magic/brew/starpls"
 
 cask "ghostty"
 cask "claude-code"
-
-# Moved to mise
-# brew "jq"
-# brew "ripgrep"
-# brew "hyperfine"
-# brew "gh" -- github-cli
-# brew "bat"
+cask "visual-studio-code"
+cask "netnewswire"
+cask "zulip"
+cask "discord"
+cask "slack"
+cask "obsidian"
